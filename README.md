@@ -22,6 +22,17 @@ I study how the cardiovascular and sympathetic nervous systems respond to physio
 
 ---
 
+## Local-AI & Software Tooling
+
+| Project | Description | Stack |
+|---|---|---|
+| **refcheck** *(private)* | Fully-local pipeline that fetches a manuscript's cited papers and verifies whether each claim is actually supported by its source — RAG over a local vector store, zero API keys | Python · Ollama · ChromaDB |
+| [tool-local-ai](https://github.com/Jonathan-Hoch/tool-local-ai) | PowerShell launcher for local Ollama models with interactive model and context-window selection | PowerShell · Ollama |
+
+Also run small reproducibility studies benchmarking local LLM "judges" (Qwen, Gemma, Mistral) for inter-rater agreement (Fleiss κ) and reasoning-mode effects on verdict reliability.
+
+---
+
 ## Selected Publications
 
 - **Hoch JW**, Domeier C, Silvestri P, Watso JC. Prognostic Value of Exercise Blood Pressure: Role of Fitness and Exercise Training. *Am J Physiol Heart Circ Physiol.* 2026. PMID: 41730298.
@@ -44,6 +55,7 @@ I study how the cardiovascular and sympathetic nervous systems respond to physio
 - **PhD, Exercise Physiology** — Florida State University (2024–2028 expected)
 - **BS, Exercise Physiology** — Florida State University (2021)
 - Founder & Head Coach, [Hoch Health and Wellness LLC](https://hochhealthandwellness.com) — personalized programming for 70+ clients across North America and Europe
+- Self-host and maintain a hardened Ubuntu/Apache server (DigitalOcean) for jonathanhoch.com and hochhealthandwellness.com — SSL automation, UFW firewall, Fail2Ban
 - Ad hoc reviewer: *Journal of Applied Physiology*, *Medicine & Science in Sports & Exercise*, *Am J Hypertension*, *Journal of Pain Research*, *Strength & Conditioning Journal*
 - Member: American Physiological Society · American College of Sports Medicine · North American Artery Society
 
@@ -52,4 +64,5 @@ I study how the cardiovascular and sympathetic nervous systems respond to physio
 ## Skills & Tools
 
 `Python` `R` `ggplot2` `Jupyter` `pROC` `BioRender` `SPSS` `REDCap`  
+`Ollama` `Local LLMs / RAG` `ChromaDB` `PowerShell` `Linux server administration`  
 Signal processing · Clinical trial coordination · Scientific illustration · Curriculum design
