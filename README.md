@@ -1,7 +1,7 @@
 # Jonathan W. Hoch, BS
 
 **PhD Candidate in Exercise Physiology · Florida State University**  
-[Cardiovascular and Applied Physiology Laboratory](https://caplaboratory.com/) · [Hoch Health and Wellness LLC](https://hochhealthandwellness.com)
+[Cardiovascular and Applied Physiology Laboratory](https://caplaboratory.com/) · [Hoch Health and Wellness LLC](https://hochhealthandwellness.com) · [Hoch Consulting](Jonathanhoch.com)
 
 ---
 
